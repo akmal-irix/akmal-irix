@@ -31,5 +31,5 @@ I'm passionate about turning complex infrastructure into **approachable digital 
 ---
 
 #### 🖥️ This GitHub Profile
-This account is dedicated to **irix-related development and creative work**. For other personal or open-source projects, I use a separate GitHub profile.
+This account is dedicated to **irix-related development and creative work**. For other personal or open-source projects, I use a separate [GitHub profile](https://github.com/hyextreme).
 
