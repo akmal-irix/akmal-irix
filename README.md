@@ -1,6 +1,6 @@
-Creative Technologist at irix
+### 👋 Hello, I'm a Creative Technologist at irix
 
-**Multimedia Designer** focused on front-end development, UI/UX, and creative digital work — currently using this GitHub profile exclusively for projects at **irix Sdn Bhd**, Malaysia’s only Tier IV certified data centre.
+I'm a **Multimedia Designer** focused on front-end development, UI/UX, and creative digital work — currently using this GitHub profile exclusively for projects at **irix Sdn Bhd**, Malaysia’s only Tier IV certified data centre.
 
 ---
 
@@ -33,9 +33,3 @@ I'm passionate about turning complex infrastructure into **approachable digital 
 #### 🖥️ This GitHub Profile
 This account is dedicated to **irix-related development and creative work**. For other personal or open-source projects, I use a separate GitHub profile.
 
-
-
-<!---
-akmal-irix/akmal-irix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
